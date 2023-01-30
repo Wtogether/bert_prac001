@@ -19,3 +19,9 @@
 6. 生成版本： git commit -m ' 备注、版本号等'
 
 7. git log    # 查看版本提交记录
+
+8. git reset --hard 版本号   ## 回滚
+
+9. git reflog   # 可以查看全部的提交回滚记录
+
+10. git reset --hard 版本号   ## 可以再次回滚
